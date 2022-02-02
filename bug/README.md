@@ -1,4 +1,4 @@
-# haptic_touch
+# bug
 
 A new Flutter project.
 
